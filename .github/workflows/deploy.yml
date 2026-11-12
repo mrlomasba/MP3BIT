@@ -67,5 +67,24 @@ jobs:
         with:
           path: _site
 
+      # A veces GitHub tarda en "ver" el paquete recién subido y la publicación falla.
+      # Si pasa, se espera y se reintenta (hasta 2 veces más).
       - id: deployment
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+
+      - name: Esperar antes de reintentar
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+
+      - id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+
+      - name: Esperar antes del último intento
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
+        run: sleep 60
+
+      - if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
         uses: actions/deploy-pages@v5
