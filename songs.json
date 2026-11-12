@@ -1,7 +1,15 @@
 {
- "generated": "2026-11-12T04:01:07+00:00",
- "count": 2,
+ "generated": "2026-11-12T04:10:43+00:00",
+ "count": 8,
  "tracks": [
+  {
+   "id": "9934caa5cc6d",
+   "file": "music/BAD BUNNY - HACIENDO QUE ME AMAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
+   "title": "HACIENDO QUE ME AMAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
+   "artist": "BAD BUNNY",
+   "duration": 217.8,
+   "size": 3526071
+  },
   {
    "id": "f3260caf0a88",
    "file": "music/$AMAEL - My Love.mp3",
@@ -9,6 +17,45 @@
    "artist": "$AMAEL",
    "duration": 130.4,
    "size": 3129815
+  },
+  {
+   "id": "faad62f4cfe2",
+   "file": "music/Piensas En Mi - Nicky Jam _ Video Oficial.mp3",
+   "title": "Nicky Jam _ Video Oficial",
+   "artist": "Piensas En Mi",
+   "duration": 255.3,
+   "size": 4131854
+  },
+  {
+   "id": "625228742747",
+   "file": "music/No Soy.mp3",
+   "title": "No Soy",
+   "duration": 208.5,
+   "size": 3376906
+  },
+  {
+   "id": "57cd1bde8a0d",
+   "file": "music/BAD BUNNY - TE DESEO LO MEJOR _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
+   "title": "TE DESEO LO MEJOR _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
+   "artist": "BAD BUNNY",
+   "duration": 139.6,
+   "size": 2260376
+  },
+  {
+   "id": "64025d5e3912",
+   "file": "music/Myke Towers - TO' LOS PODERES Visualizer.mp3",
+   "title": "TO' LOS PODERES Visualizer",
+   "artist": "Myke Towers",
+   "duration": 156.4,
+   "size": 2532484
+  },
+  {
+   "id": "dfc76e2db9c4",
+   "file": "music/BAD BUNNY - TRELLAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
+   "title": "TRELLAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
+   "artist": "BAD BUNNY",
+   "duration": 157.7,
+   "size": 2553525
   },
   {
    "id": "6f1cf80f61f5",
