@@ -1,7 +1,8 @@
 # Robot de MP3BIT: cada vez que subes algo al repo (por ejemplo, MP3 a music/),
-#  1. genera songs.json y las portadas (covers/) a partir de toda la música del repo,
-#  2. los guarda en el repo,
-#  3. publica la app en GitHub Pages.
+#  1. arregla las canciones que el iPhone no puede adelantar (scripts/fix_audio.py),
+#  2. genera songs.json y las portadas (covers/) a partir de toda la música del repo,
+#  3. los guarda en el repo,
+#  4. publica la app en GitHub Pages.
 # Requisito (una sola vez): Settings → Pages → Source: GitHub Actions.
 name: Publicar MP3BIT
 
@@ -35,22 +36,23 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generar lista de canciones y portadas
+      - name: Arreglar canciones y generar la lista
         run: |
-          pip install --quiet mutagen==1.47.0
+          pip install --quiet mutagen==1.47.0 imageio-ffmpeg==0.8.1
           mkdir -p music
+          python scripts/fix_audio.py
           python scripts/build_catalog.py --completo
 
       - name: Guardar la lista en el repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
-          git add -A songs.json
+          git add -A songs.json music
           git add -A covers 2>/dev/null || true   # puede no existir si ninguna canción tiene portada
           if git diff --cached --quiet; then
             echo "La lista no cambió."
           else
-            git commit -m "Actualizar lista de canciones"
+            git commit -m "Arreglar canciones y actualizar la lista"
             git push
           fi
 
