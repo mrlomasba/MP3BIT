@@ -1,7 +1,31 @@
 {
- "generated": "2026-11-12T04:10:43+00:00",
- "count": 8,
+ "generated": "2026-11-12T04:35:23+00:00",
+ "count": 15,
  "tracks": [
+  {
+   "id": "74516a0ae2ea",
+   "file": "music/YOVNGCHIMI - Blicky Gvng w_ DJ Drama Visualizer.mp3",
+   "title": "Blicky Gvng w_ DJ Drama Visualizer",
+   "artist": "YOVNGCHIMI",
+   "duration": 198.1,
+   "size": 3207005
+  },
+  {
+   "id": "83038991abcc",
+   "file": "music/Cosculluela x Arcangel x Mueka x Jungl - Chavos Pal Banco Audio Oficial.mp3",
+   "title": "Chavos Pal Banco Audio Oficial",
+   "artist": "Cosculluela x Arcangel x Mueka x Jungl",
+   "duration": 306.5,
+   "size": 4961580
+  },
+  {
+   "id": "8305890e65ef",
+   "file": "music/Ronca Letra - Don Omar, Hector _El Father_, Zion.mp3",
+   "title": "Don Omar, Hector _El Father_, Zion",
+   "artist": "Ronca Letra",
+   "duration": 301.1,
+   "size": 4874084
+  },
   {
    "id": "9934caa5cc6d",
    "file": "music/BAD BUNNY - HACIENDO QUE ME AMAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
@@ -34,6 +58,28 @@
    "size": 3376906
   },
   {
+   "id": "dcbf248a8631",
+   "file": "music/Héctor _El Father_ - Outro _Hipócritas_ Visualizer.mp3",
+   "title": "Outro _Hipócritas_ Visualizer",
+   "artist": "Héctor _El Father_",
+   "duration": 365.2,
+   "size": 5911214
+  },
+  {
+   "id": "48b5a4903bdd",
+   "file": "music/Ronca, hector el father.m4a",
+   "title": "Ronca, hector el father",
+   "duration": 181.3,
+   "size": 2934467
+  },
+  {
+   "id": "ad1eeba70d55",
+   "file": "music/Si Tú No Estás.mp3",
+   "title": "Si Tú No Estás",
+   "duration": 243.0,
+   "size": 3934958
+  },
+  {
    "id": "57cd1bde8a0d",
    "file": "music/BAD BUNNY - TE DESEO LO MEJOR _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
    "title": "TE DESEO LO MEJOR _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
@@ -56,6 +102,14 @@
    "artist": "BAD BUNNY",
    "duration": 157.7,
    "size": 2553525
+  },
+  {
+   "id": "f69ad8365e71",
+   "file": "music/BABY GLOCK OFFICIAL VIDEO 🗡🎯 - YOVNGCHIMI.mp3",
+   "title": "YOVNGCHIMI",
+   "artist": "BABY GLOCK OFFICIAL VIDEO 🗡🎯",
+   "duration": 182.5,
+   "size": 2954746
   },
   {
    "id": "6f1cf80f61f5",
