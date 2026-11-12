@@ -1,7 +1,15 @@
 {
- "generated": "2026-11-12T02:38:34+00:00",
- "count": 1,
+ "generated": "2026-11-12T04:01:07+00:00",
+ "count": 2,
  "tracks": [
+  {
+   "id": "f3260caf0a88",
+   "file": "music/$AMAEL - My Love.mp3",
+   "title": "My Love",
+   "artist": "$AMAEL",
+   "duration": 130.4,
+   "size": 3129815
+  },
   {
    "id": "6f1cf80f61f5",
    "file": "music/YOVNGCHIMI - FDO EL INFALTABLE 🥷 (Official Video) - YOVNGCHIMI.mp3",
