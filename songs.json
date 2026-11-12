@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T04:37:18+00:00",
- "count": 27,
+ "generated": "2026-11-12T04:44:30+00:00",
+ "count": 32,
  "tracks": [
   {
    "id": "89d1fff44517",
@@ -40,6 +40,14 @@
    "artist": "En La Lenta Audio",
    "duration": 230.1,
    "size": 3724468
+  },
+  {
+   "id": "717988d6667a",
+   "file": "music/Farruko - Cositas Que Haciamos Official Video.mp3",
+   "title": "Cositas Que Haciamos Official Video",
+   "artist": "Farruko",
+   "duration": 256.9,
+   "size": 4158425
   },
   {
    "id": "7e3c4edc16af",
@@ -104,12 +112,27 @@
    "size": 2659854
   },
   {
+   "id": "a0196b38c0f8",
+   "file": "music/BAD BUNNY ft. YOVNGCHIMI - MERCEDES CAROTA Visualizer _ nadie sabe lo que va a pasar mañana.mp3",
+   "title": "MERCEDES CAROTA Visualizer _ nadie sabe lo que va a pasar mañana",
+   "artist": "BAD BUNNY ft. YOVNGCHIMI",
+   "duration": 200.9,
+   "size": 3252230
+  },
+  {
    "id": "f3260caf0a88",
    "file": "music/$AMAEL - My Love.mp3",
    "title": "My Love",
    "artist": "$AMAEL",
    "duration": 130.4,
    "size": 3129815
+  },
+  {
+   "id": "56eabc425a5f",
+   "file": "music/Nena Fichu.mp3",
+   "title": "Nena Fichu",
+   "duration": 208.3,
+   "size": 3373869
   },
   {
    "id": "faad62f4cfe2",
@@ -133,6 +156,14 @@
    "artist": "Cosculluela",
    "duration": 197.9,
    "size": 3203389
+  },
+  {
+   "id": "e3358c33adf9",
+   "file": "music/BAD BUNNY - OTRA NOCHE EN MIAMI _ X100PRE [Visualizer].mp3",
+   "title": "OTRA NOCHE EN MIAMI _ X100PRE [Visualizer]",
+   "artist": "BAD BUNNY",
+   "duration": 233.2,
+   "size": 3774412
   },
   {
    "id": "dcbf248a8631",
@@ -195,6 +226,14 @@
    "artist": "Me Paseo",
    "duration": 218.0,
    "size": 3529560
+  },
+  {
+   "id": "b60fdc973de4",
+   "file": "music/Jowell y Randy - Welcome to my crib.mp3",
+   "title": "Welcome to my crib",
+   "artist": "Jowell y Randy",
+   "duration": 247.3,
+   "size": 4004234
   },
   {
    "id": "f69ad8365e71",
