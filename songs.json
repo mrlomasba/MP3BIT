@@ -1,7 +1,22 @@
 {
- "generated": "2026-11-12T04:35:23+00:00",
- "count": 15,
+ "generated": "2026-11-12T04:37:18+00:00",
+ "count": 27,
  "tracks": [
+  {
+   "id": "89d1fff44517",
+   "file": "music/Yeyo & Donny Graff - A Lo Mejor Recreada.mp3",
+   "title": "A Lo Mejor Recreada",
+   "artist": "Yeyo & Donny Graff",
+   "duration": 88.0,
+   "size": 1424641
+  },
+  {
+   "id": "12e636b1d444",
+   "file": "music/amor, cómo ESTÁS___.mp3",
+   "title": "amor, cómo ESTÁS___",
+   "duration": 213.0,
+   "size": 3450067
+  },
   {
    "id": "74516a0ae2ea",
    "file": "music/YOVNGCHIMI - Blicky Gvng w_ DJ Drama Visualizer.mp3",
@@ -19,6 +34,22 @@
    "size": 4961580
   },
   {
+   "id": "247c86d2cc42",
+   "file": "music/En La Lenta Audio - Cosculluela Ft. Farruko.mp3",
+   "title": "Cosculluela Ft. Farruko",
+   "artist": "En La Lenta Audio",
+   "duration": 230.1,
+   "size": 3724468
+  },
+  {
+   "id": "7e3c4edc16af",
+   "file": "music/Fuerza Regida - Desvelado Video Oficial.mp3",
+   "title": "Desvelado Video Oficial",
+   "artist": "Fuerza Regida",
+   "duration": 210.9,
+   "size": 3414524
+  },
+  {
    "id": "8305890e65ef",
    "file": "music/Ronca Letra - Don Omar, Hector _El Father_, Zion.mp3",
    "title": "Don Omar, Hector _El Father_, Zion",
@@ -27,12 +58,50 @@
    "size": 4874084
   },
   {
+   "id": "8068453eefb1",
+   "file": "music/MySpace - Don Omar, Wisin & Yandel [Letra _ Lyrics].mp3",
+   "title": "Don Omar, Wisin & Yandel [Letra _ Lyrics]",
+   "artist": "MySpace",
+   "duration": 222.4,
+   "size": 3600897
+  },
+  {
+   "id": "bf2177da8693",
+   "file": "music/Ta’ Soltera - El Jordan 23 Ft Cris Mj Prod.BigCvyu Video Oficial.mp3",
+   "title": "El Jordan 23 Ft Cris Mj Prod.BigCvyu Video Oficial",
+   "artist": "Ta’ Soltera",
+   "duration": 197.2,
+   "size": 3192360
+  },
+  {
+   "id": "54bf7955ddba",
+   "file": "music/Es Hora.mp3",
+   "title": "Es Hora",
+   "duration": 219.5,
+   "size": 3556332
+  },
+  {
+   "id": "2ae6be0b872a",
+   "file": "music/Plan B - Guatauba [ClasicoReggaetonero].mp3",
+   "title": "Guatauba [ClasicoReggaetonero]",
+   "artist": "Plan B",
+   "duration": 162.6,
+   "size": 2632397
+  },
+  {
    "id": "9934caa5cc6d",
    "file": "music/BAD BUNNY - HACIENDO QUE ME AMAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
    "title": "HACIENDO QUE ME AMAS _ EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
    "artist": "BAD BUNNY",
    "duration": 217.8,
    "size": 3526071
+  },
+  {
+   "id": "0a8c5f12c53a",
+   "file": "music/La Cadillac.mp3",
+   "title": "La Cadillac",
+   "duration": 164.2,
+   "size": 2659854
   },
   {
    "id": "f3260caf0a88",
@@ -58,12 +127,28 @@
    "size": 3376906
   },
   {
+   "id": "df94ed2c4f22",
+   "file": "music/Cosculluela - One Blood [El Princi_ The Lost Files].mp3",
+   "title": "One Blood [El Princi_ The Lost Files]",
+   "artist": "Cosculluela",
+   "duration": 197.9,
+   "size": 3203389
+  },
+  {
    "id": "dcbf248a8631",
    "file": "music/Héctor _El Father_ - Outro _Hipócritas_ Visualizer.mp3",
    "title": "Outro _Hipócritas_ Visualizer",
    "artist": "Héctor _El Father_",
    "duration": 365.2,
    "size": 5911214
+  },
+  {
+   "id": "22a8a85de07d",
+   "file": "music/Anuel AA - Pa Las Putas Official Audio.mp3",
+   "title": "Pa Las Putas Official Audio",
+   "artist": "Anuel AA",
+   "duration": 137.6,
+   "size": 2227330
   },
   {
    "id": "48b5a4903bdd",
@@ -102,6 +187,14 @@
    "artist": "BAD BUNNY",
    "duration": 157.7,
    "size": 2553525
+  },
+  {
+   "id": "9407dc8fefa2",
+   "file": "music/15. Me Paseo - Victor Mendivil x Oscar Maydon Visualizer Oficial.mp3",
+   "title": "Victor Mendivil x Oscar Maydon Visualizer Oficial",
+   "artist": "Me Paseo",
+   "duration": 218.0,
+   "size": 3529560
   },
   {
    "id": "f69ad8365e71",
